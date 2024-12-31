@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Oscar Vargas Webster
 
-<!--
-**OSCKAR96/OSCKAR96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Civil Industrial de Chile, especializado en análisis de datos, desarrollo web y gestión de información. Me apasiona crear soluciones basadas en tecnología para resolver problemas complejos.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- Análisis de datos con Python y SQL.
+- Visualización de datos con Power BI.
+- Desarrollo web con Vue.js y Bootstrap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Proyectos destacados
+- (https://osckar96.github.io/prueba5/)
+
+
+## 📫 ¡Contáctame!
+- **Correo:** oscar.vargas@example.com  
+- **LinkedIn:** [linkedin.com/in/oscarvargas](https://linkedin.com/in/oscarvargas)
